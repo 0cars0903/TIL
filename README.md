@@ -15,7 +15,7 @@
 - [link](#link)
 
 ## [Python](#Python)
-- [제목1](python/wpahr1.md)
+- [Test](python/wpahr1.md)
 
 ## [html](#html)
 - [How to make a div](html/how-to-make-a-div.md)
@@ -27,3 +27,4 @@
 ### [Baekjoon page][3]
 
 [3]: https://www.acmicpc.net/step
+
