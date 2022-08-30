@@ -7,5 +7,5 @@ for i in range(10):
         lst.append(b)
 print(len(lst))
 
-# 
+# short
 print(len({int(i)%42for i in open(0)}))
