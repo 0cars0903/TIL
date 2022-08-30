@@ -6,3 +6,6 @@ for i in range(10):
     if (b in lst) == False:
         lst.append(b)
 print(len(lst))
+
+# 
+print(len({int(i)%42for i in open(0)}))
