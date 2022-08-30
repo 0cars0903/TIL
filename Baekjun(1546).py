@@ -9,3 +9,7 @@ for i in range(N):
 # print(B)
 result = sum(B)
 print(float(result/N))
+
+# short
+n,*l=map(int,open(0).read().split())
+print(sum(l)*100/max(l)/n)
